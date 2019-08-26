@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">View Jam</string>
+    <string name="belom_di_isi">G-Shock GA-100-1A1</string>
+    <string name="deskripsi">Memperkenalkan koleksi model G-SHOCK baru dengan diameter muka 35 mm dan casing besar yang memberikan kesan kuat dan tegas.
+Cincin dial dan penanda jam yang dibuat menonjol memberikan kedalaman tiga dimensi yang membuat muka jam memiliki karakter yang kaya.
+Tampilan muka tiga dial G-SHOCK yang populer menggunakan satu dial analog di tengah dan dial digital di sisi kiri dan kanan.</string>
+    <string name="bahan">Resin</string>
+    <string name="led">Tombol cahaya otomatis (1,5 detik atau 3 detik)</string>
+    <string name="waktu">29 zona waktu (48 kota + waktu universal terkoordinasi), waktu musim panas aktif/nonaktif, pertukaran kota Asal / kota waktu Dunia</string>
+    <string name="alarm">5 alarm harian (dengan 1 alarm snooze)</string>
+    <string name="pakai">Perkiraan masa pakai baterai: 2 tahun pada CR1220</string>
+    <string name="ukuran">55×51.2×16.9mm</string>
+    <string name="berat">70g</string>
+</resources>
